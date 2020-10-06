@@ -1,4 +1,4 @@
-package com.stradtkt.springdemo.daoimp;
+package com.stradtkt.springdemo.daoimpl;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
